@@ -1,4 +1,4 @@
-# how_to_fix_buffalo_linkstation_xfs_drive
+# How to fix Buffalo Linkstation XFS Drive
 Just a description of how I fixed my corrupt Buffalo Linkstation XFS disk.
 
 My Linkstation failed, probably because of a power failure, and whenever I started it it worked for a few minutes and then went unreachable.
